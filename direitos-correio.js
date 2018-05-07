@@ -1,0 +1,1 @@
+ <center><p>Desenvolvido por: <a href='http://www.edtechservice.com' target='_blank'><img src='https://github.com/edubr2/Geral/raw/master/ed.png' title='EdTechService'/></a> <a Style='visibility: hidden' href='http://themexpose.com' id='mycontent'>ThemeXpose</a></p></center>
